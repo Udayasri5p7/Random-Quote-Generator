@@ -1,0 +1,36 @@
+#cardd
+{
+    display: flex;
+    justify-content: center;
+    margin-top: 100px;
+}
+
+#gaya
+{
+    background-color: aqua;
+}
+body
+{
+    background-color: black;
+}
+#buttons
+{
+
+    display: flex;
+    float: left;
+    width: 90%;
+
+}
+a{
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#get-quote
+{
+    margin-left: 300px;
+}
+#author
+{
+   margin-right: 15px;
+   float: right;
+}
